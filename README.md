@@ -11,6 +11,3 @@ Tous les exemple sont testés par le biais de l'assistant vocal intelligent 'Ama
 <p align="center">
 	<img src="images/amazon-echo.jpg">
 </p>
-
-// TODO
-Ajouter un schéma d'architecture
